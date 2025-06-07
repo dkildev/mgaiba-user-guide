@@ -1,5 +1,10 @@
 # Adding a Task Time Entry
 
+**Version:** 1.0  
+**Last Updated:** 8 June 2025  
+
+---
+
 ## Method 1: Manual Entry
 
 1. Open the ticket.  
@@ -21,21 +26,21 @@
 7. Fill in **Executed Time**, **Duration**, and **Description**. 
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-6.png)
 
-8. Click **Submit**.
+8. Click **Submit**. The new **Time Entry** will be added in both the task's **TIME ENTRY** tab and the ticket's **TIME ENTRY** tab.
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-7.png)
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-8.png)
 
 
 ## Method 2: Using the Timer
 
-1. Follow the steps above to create a task.  
+1. To create a new task, follow the steps up to **Step 5** under **Method 1: Manual Entry**, as outlined above, and then open the created task.
 2. In the **TIME ENTRY** tab, click **Start Timer**.  
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-1.png)
 
 3. Complete the task, then click **Stop and Save Timer**.  
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-2.png)
 
-4. The time entry will be logged automatically.
+4. The time entry will be logged automatically in both the task's **TIME ENTRY** tab and the ticket's **TIME ENTRY** tab..
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-3.png)
    ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-4.png)
 

@@ -18,7 +18,7 @@ For additional help, contact the Techinnovate at digital@techinnovate.com.au.
 <h2>Teams and Topics:</h2>
 
 <h3>Employment Advisory Team</h3>
-- Ticket Management  
+- Ticket Management<br>
 - Activity & Time Entry  
 
 <h3>Membership Team</h3>

@@ -7,11 +7,10 @@
 - **Employment Advisory Team**
 
   - **Ticket Management**
-
     - [Creating a Ticket](/employment-advisory/ticket-management/creating-ticket.md)
     - [Finding a Ticket](/employment-advisory/ticket-management/finding-ticket.md)
 
-  - **Activity & Time Entry**
+  - [**Activity & Time Entry**](/employment-advisory/activity-time-entry/index.md)
     - [Adding an Email Time Entry](/employment-advisory/activity-time-entry/email-time-entry.md)
     - [Adding a Call Time Entry](/employment-advisory/activity-time-entry/call-time-entry.md)
     - [Adding a Task Time Entry](/employment-advisory/activity-time-entry/task-time-entry.md)
