@@ -1,19 +1,41 @@
 # Adding a Task Time Entry
 
-Method 1: Manual Entry
+## Method 1: Manual Entry
 
-- Open the ticket.
-- Go to ACTIVITY > Add Activity > Task.
-- Fill in Subject, Due Date (optional), Description, Reminder (optional).
-- Click Submit.
-- Switch to All Activities, open the task.
-- Go to TIME ENTRY tab and click Add Time Entry.
-- Fill in Executed Time, Duration, Description.
-- Click Submit.
+1. Open the ticket.  
+2. Go to **ACTIVITY > Add Activity > Task**.  
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-1.png)
 
-Method 2: Using the Timer
+3. Fill in **Subject**, **Due Date** (optional), **Description**, and **Reminder** (optional). 
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-2.png)
 
-- Follow steps above to create a task.
-- In the TIME ENTRY tab, click Start Timer.
-- Complete the task, then click Stop and Save Timer.
-- Time entry will be logged automatically.
+4. Click **Submit**.  
+5. Switch to **All Activities**, then open the task.  
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-3.png)
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-4.png)
+
+
+6. Go to the **TIME ENTRY** tab and click **Add Time Entry**.  
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-5.png)
+
+7. Fill in **Executed Time**, **Duration**, and **Description**. 
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-6.png)
+
+8. Click **Submit**.
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-7.png)
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/manul-entry-8.png)
+
+
+## Method 2: Using the Timer
+
+1. Follow the steps above to create a task.  
+2. In the **TIME ENTRY** tab, click **Start Timer**.  
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-1.png)
+
+3. Complete the task, then click **Stop and Save Timer**.  
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-2.png)
+
+4. The time entry will be logged automatically.
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-3.png)
+   ![Task-Time-Entry-Image](../../assets/images/task-time-entry/use-timer-4.png)
+

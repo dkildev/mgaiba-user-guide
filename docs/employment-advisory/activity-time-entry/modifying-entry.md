@@ -2,7 +2,11 @@
 
 If you need to update a time entry:
 
-- Open the time entry from the TIME ENTRY tab.
-- Click the Edit icon.
-- Update the necessary fields (Executed Time, Duration, Description).
-- Click Submit.
+1. Open the time entry from the **TIME ENTRY** tab.  
+2. Click the **Edit** icon.  
+   ![Modify-Time-Entry-Image](../../assets/images/modify-time-entry/modify-time-entry-1.png)
+
+3. Update the necessary fields (**Executed Time**, **Duration**, **Description**).  
+   ![Modify-Time-Entry-Image](../../assets/images/modify-time-entry/modify-time-entry-2.png)
+
+4. Click **Submit**.

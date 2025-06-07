@@ -1,26 +1,56 @@
-# Adding a Call Time Entry
+# Notes
 
 There are two components when logging a call:
 
-- Duration in Call Activity: Automatically tracked during live calls.
-- Duration in Time Entry of Call Activity: Manually added to include preparation and follow-up time.
+1. **Duration in Call Activity:** Automatically tracked during live calls.  
+2. **Duration in Time Entry of Call Activity:** Manually added to include preparation and follow-up time.
 
-## 2.1 Logging a Current Call
+## Logging a Current Call
 
-- Open the relevant ticket.
-- Go to ACTIVITY > Add Activity > Call.
-- Fill in Subject, Direction, Call Status: Current Call, Description.
-- Click Call Started.
-- Use the popup phone to manage the call.
-- The time entry will be saved under the TIME ENTRY tab.
+1. Open the relevant ticket.  
+2. Go to **ACTIVITY > Add Activity > Call**.  
+    ![Call-Time-Entry-Image](../../assets/images/call-time-entry/call-time-entry-1.png)
 
-## 2.2 Logging a Completed Call
+3. Fill in **Subject**, **Direction**, **Call Status:** Current Call, and **Description**. 
+    ![Call-Time-Entry-Image](../../assets/images/call-time-entry/call-time-entry-2.png)
 
-- Open the relevant ticket.
-- Go to ACTIVITY > Add Activity > Call.
-- Fill in Subject, Direction, Call Status: Completed, Start Time, Duration, Description.
-- Click Submit.
-- Switch to All Activities, open the completed call.
-- Go to TIME ENTRY tab and click Add Time Entry.
-- Fill in Executed Time, Duration, Description.
-- Click Submit. The time entry is added.
+4. Click **Call Started**.  
+
+5. On the popup phone, click **Answered** to begin timing.
+    ![Call-Time-Entry-Image](../../assets/images/call-time-entry/call-time-entry-3.png)
+
+6. Use the popup phone to manage the call.  
+
+    ![Call-Time-Entry-Image](../../assets/images/call-time-entry/call-time-entry-4.png)
+    ![Call-Time-Entry-Image](../../assets/images/call-time-entry/call-time-entry-5.png)
+
+7. The time entry will be saved under the **TIME ENTRY** tab.
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/call-time-entry-6.png)
+
+
+## Logging a Completed Call
+
+1. Open the relevant ticket.  
+2. Go to **ACTIVITY > Add Activity > Call**.  
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-1.png)
+
+3. Fill in **Subject**, **Direction**, **Call Status:** Completed, **Start Time**, **Duration**, and **Description**.  
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-2.png)
+
+4. Click **Submit**.  
+5. Switch to **All Activities**.
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-3.png)
+
+6. Open the newly created completed call.
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-4.png)
+
+7. Go to the **TIME ENTRY** tab and click **Add Time Entry**.  
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-5.png)
+
+8. Fill in **Executed Time**, **Duration**, and **Description**.  
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-6.png)
+
+9. Click **Submit**. The time entry is added.
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-7.png)
+   ![Call-Time-Entry-Image](../../assets/images/call-time-entry/logging-completed-call-8.png)
+

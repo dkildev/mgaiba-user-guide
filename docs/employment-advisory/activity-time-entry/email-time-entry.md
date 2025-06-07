@@ -1,16 +1,29 @@
 # Adding an Email Time Entry
 
-Method 1: Manual Entry
+## Method 1: Manual Entry
 
-- Open the ticket you've worked on.
-- After sending the email, go to the Time Entry tab and click Add Time Entry.
-- Fill in: Duration, Description.
-- Leave Total Cost as $0 and Billing Type as Non-Billing.
-- Click Submit. The new Time Entry will be added.
+1. Open the ticket you've worked on.
+2. After sending the email, go to the **Time Entry** tab and click **Add Time Entry**.
+   ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-1.png)
 
-Method 2: Using the Timer
+3. Fill in the **Duration** and **Description** fields.
+    Leave **Total Cost** as $0 and set **Billing Type** to **Non-Billing**.
+    ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-2.png)
 
-- Open the ticket before starting your email.
-- Click Start Timer.
-- After completing the email, click Stop and Save Timer.
-- A confirmation message will appear, and the time entry will be added automatically.
+5. Click **Submit**. The new Time Entry will be added.
+   ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-3.png)
+
+
+## Method 2: Using the Timer
+
+1. Open the ticket before starting your email.
+2. Click **Start Timer**.
+   ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-4.png)
+
+3. After completing the email, click **Stop and Save Timer**.
+   ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-5.png)
+
+4. A confirmation message will appear, and the time entry will be added automatically.
+   ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-6.png)
+   ![Email-Time-Entry-Image](../../assets/images/email-time-entry/email-time-entry-7.png)
+
