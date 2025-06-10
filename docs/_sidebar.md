@@ -18,3 +18,5 @@
 
 - **Membership Team**
   - [OAuth IMAP Setup](/membership/oauth-imap-setup.md)
+  - [Manage Duplicate Contact](/membership/manage-duplicate-contact.md)
+
