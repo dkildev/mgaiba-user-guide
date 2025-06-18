@@ -28,7 +28,7 @@ Zoho Desk allows tickets to be merged in two ways:
 
    - Go to the **Tickets** module in Zoho Desk  
    - Select the relevant **Department**
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-1.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-1.png)
 
 
 <br><br> 2. **Select Tickets to Merge**
@@ -39,24 +39,24 @@ Zoho Desk allows tickets to be merged in two ways:
 <br><br> 3. **Click Merge**
 
    - From the **Mass Actions** toolbar, click **Merge**
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-2.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-2.png)
 
 <br><br> 4. **Choose Fields to Retain**
 
    - On the **Merge Ticket** page, select the field values you want to retain in the tickets
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-3.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-3.png)
 
 
 <br><br> 5. **Confirm the Merge**
 
    - Click **Merge**, then confirm by selecting **Yes, Merge**
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-4.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-4.png)
 
 
 <br><br> 6. **Verify Merge Success**
 
    - A success message will appear confirming the tickets have been merged
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-5.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-5.png)
 
 ---
 
@@ -71,13 +71,13 @@ This method is used when the tickets belong to the same contact or account.
 <br><br> 2. **Access Timeline View**
 
    - In the ticket’s detail view, click on **Timeline**
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-6.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-6.png)
 
 <br><br> 3. **Select and Merge Tickets**
 
    - Tick the checkboxes beside the tickets you want to merge  
    - Click **Merge**
-   - ![Creating-Ticket-Image](../../assets/images/merging-ticket/merging-ticket-7.png)
+   - ![Merging-Tickets](../../assets/images/merging-ticket/merging-ticket-7.png)
 
 ---
 

@@ -4,3 +4,12 @@ h1, h2 {
   text-shadow: none !important;
   cursor: default !important;
 }
+
+.sidebar-nav a {
+  color: #2a5db0 !important;
+}
+
+.sidebar-nav a:hover,
+.sidebar-nav a:active {
+  color: #1a73e8 !important;
+}
