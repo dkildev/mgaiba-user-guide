@@ -9,6 +9,8 @@
   - **Ticket Management**
     - [Creating a Ticket](/employment-advisory/ticket-management/creating-ticket.md)
     - [Finding a Ticket](/employment-advisory/ticket-management/finding-ticket.md)
+    - [Merging Tickets](/employment-advisory/ticket-management/merging-tickets.md)
+
 
   - [**Activity & Time Entry**](/employment-advisory/activity-time-entry/index.md)
     - [Adding an Email Time Entry](/employment-advisory/activity-time-entry/email-time-entry.md)
