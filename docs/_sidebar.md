@@ -18,6 +18,7 @@
     - [Modifying a Time Entry](/employment-advisory/activity-time-entry/modifying-entry.md)
 
 - **Membership Team**
+  - [New Member Onboarding Process](/membership/new-member-onboarding-process.md)
   - [OAuth IMAP Setup](/membership/oauth-imap-setup.md)
   - [Setting Up Email Signature](/membership/setting-up-email-signature.md)
   - [Manage Duplicate Contact](/membership/manage-duplicate-contact.md)
