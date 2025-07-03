@@ -21,7 +21,7 @@ This guide outlines the process for onboarding new MGA members into Zoho CRM, ba
 
 ---
 
-### Channel 1: Online Submission (Website)
+## Channel 1: Online Submission (Website)
 
 1. The user navigates to the MGA website and completes the membership application form.
    - ![Creating-Ticket-Image](../assets/images/new-member-onboarding-process/nmop-1.png)
@@ -63,7 +63,7 @@ This guide outlines the process for onboarding new MGA members into Zoho CRM, ba
 
 ---
 
-### Channel 2: Offline Submission (PDF or Printed Copy)
+## Channel 2: Offline Submission (PDF or Printed Copy)
 
 1. A team member of the **Membership Engagement Team** manually creates a new Lead in Zoho CRM using the PDF or printed form.
 2. Follow steps 4–10 above to verify, convert, and onboard the member into the system.
