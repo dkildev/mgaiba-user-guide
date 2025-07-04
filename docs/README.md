@@ -5,9 +5,9 @@
 </p>
 
 <div style="margin-bottom:80px"></div>
-<h1 style="font-size: 48px;">MGAIBA Zoho User Guide</h1>
+<h1 style="font-size: 48px;">MGAIBA – Zoho System User Guide</h1>
 
-Welcome to the **MGAIBA Zoho User Guide**, your comprehensive resource for navigating Zoho products tailored to MGAIBA teams.
+Welcome to the **MGAIBA - Zoho System User Guide**, your comprehensive resource for navigating Zoho products tailored to MGAIBA teams.
 
 Use the sidebar menu on the left to navigate through detailed guides, tutorials, and best practices specific to each team.
 

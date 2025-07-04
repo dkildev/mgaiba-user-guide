@@ -1,10 +1,10 @@
-- **Zoho Links**
+- <div class="sidebar-team">Zoho Links</div>
 
   - [Zoho One](https://one.zoho.com.au)
   - [Zoho CRM](https://crm.zoho.com.au)
   - [Zoho Desk](https://desk.zoho.com.au)
 
-- **Employment Advisory Team**
+- <div class="sidebar-team">Employment Advisory Team</div>
 
   - **Ticket Management**
     - [Creating a Ticket](/employment-advisory/ticket-management/creating-ticket.md)
@@ -17,7 +17,8 @@
     - [Adding a Task Time Entry](/employment-advisory/activity-time-entry/task-time-entry.md)
     - [Modifying a Time Entry](/employment-advisory/activity-time-entry/modifying-entry.md)
 
-- **Membership Team**
+- <div class="sidebar-team">Membership Engagement Team</div>
+
   - [New Member Onboarding Process](/membership/new-member-onboarding-process.md)
   - [OAuth IMAP Setup](/membership/oauth-imap-setup.md)
   - [Setting Up Email Signature](/membership/setting-up-email-signature.md)
