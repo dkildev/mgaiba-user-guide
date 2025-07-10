@@ -23,3 +23,5 @@
   - [OAuth IMAP Setup](/membership/oauth-imap-setup.md)
   - [Setting Up Email Signature](/membership/setting-up-email-signature.md)
   - [Manage Duplicate Contact](/membership/manage-duplicate-contact.md)
+  - [Ticket Contact (Originator) Reassignment](/membership/ticket-contact-reassignment.md)
+
