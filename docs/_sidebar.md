@@ -89,15 +89,18 @@ details.sidebar-dropdown[open] summary::after {
 }
 </style>
 
-<details class="sidebar-dropdown">
+<details class="sidebar-dropdown" open>
   <summary><span class="sidebar-team">Website</span></summary>
 </details>
 
-<details class="sidebar-dropdown">
+<details class="sidebar-dropdown" open>
   <summary><span class="sidebar-team">Client Portal</span></summary>
+    <ul>
+      <li><a href="#/client-portal/troubleshooting-registration">Member Registration</a></li>
+    </ul>
 </details>
 
-<details class="sidebar-dropdown">
+<details class="sidebar-dropdown" open>
   <summary><span class="sidebar-team">ZOHO</span></summary>
 
   <div class="sidebar-subteam">Zoho Links</div>
