@@ -91,6 +91,12 @@ details.sidebar-dropdown[open] summary::after {
 
 <details class="sidebar-dropdown" open>
   <summary><span class="sidebar-team">Website</span></summary>
+    <ul>
+      <li><a href="#/website/manage-industry-news">Manage Industry News & Media</a></li>
+      <li><a href="#/website/manage-magazine">Manage Magazines</a></li>
+      <li><a href="#/website/manage-event">Manage Events</a></li>
+    </ul>
+
 </details>
 
 <details class="sidebar-dropdown" open>
