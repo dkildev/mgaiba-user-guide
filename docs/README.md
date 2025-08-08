@@ -1,26 +1,45 @@
-<!-- Logos side by side -->
+<!-- Logos side by side with same height -->
 <p>
-  <img src="./assets/images/logo/mga-logo.png" alt="MGAIBA Company Logo" width="300" style="margin-right: 40px;" />
-  <img src="./assets/images/logo/zoho-logo.png" alt="Zoho Product Logo" width="300" />
+  <img src="./assets/images/logo/mga-logo.png" alt="MGAIBA Company Logo" height="120" style="margin-right: 40px;" />
+  <img src="./assets/images/logo/zoho-logo.png" alt="Zoho Product Logo" height="120" style="margin-right: 40px;" />
+  <img src="./assets/images/logo/laravel-logo.png" alt="Laravel Logo" height="120" />
 </p>
 
-<div style="margin-bottom:80px"></div>
-<h1 style="font-size: 48px;">MGAIBA – Zoho System User Guide</h1>
+<div style="margin-bottom: 80px"></div>
 
-Welcome to the **MGAIBA - Zoho System User Guide**, your comprehensive resource for navigating Zoho products tailored to MGAIBA teams.
+# MGAIBA – Comprehensive Systems User Guide
 
-Use the sidebar menu on the left to navigate through detailed guides, tutorials, and best practices specific to each team.
+Welcome to the **MGAIBA Comprehensive Systems User Guide** — your central resource for workflows and best practices across the **Website**, **Client Portal**, and **Zoho Systems** used by MGAIBA teams.
 
-For additional help, contact the Techinnovate at digital@techinnovate.com.au.
+Use the sidebar to browse topics.
 
 ---
-<!-- 
-<h2>Teams and Topics:</h2>
 
-<h3>Employment Advisory Team</h3>
-- Ticket Management<br>
-- Activity & Time Entry  
+## What’s inside
 
-<h3>Membership Team</h3>
-- OAuth IMAP Setup   -->
+- **Website**
+  - Coming soon
+- **Client Portal**
+  - Coming soon
+- **Zoho Systems**
+  - Zoho Links, Employment Advisory Team guides, Membership Team processes.
 
+---
+
+## How to use this guide
+
+- **Breadcrumbs:** Use the sidebar hierarchy (top-level ▸ sub-section ▸ page).
+- **Search:** Click the search box to find pages quickly.
+- **Open in a new tab:** Ctrl/Cmd-click a link.
+
+---
+
+## Support
+
+For assistance or to request updates, contact **Techinnovate** at  
+**digital@techinnovate.com.au**.
+
+---
+
+**Version:** 2.0 • **Last updated:** 8 August 2025  
+This guide is for internal MGAIBA use.
