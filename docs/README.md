@@ -18,11 +18,11 @@ Use the sidebar to browse topics.
 ## What’s inside
 
 - **Website**
-  - Coming soon
+  - Content to be published soon
 - **Client Portal**
-  - Coming soon
+  - Member registration troubleshooting Guide
 - **Zoho Systems**
-  - Zoho Links, Employment Advisory Team guides, Membership Team processes.
+  - Guides and resources for system links, employment advisory processes, and membership management
 
 ---
 
