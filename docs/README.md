@@ -18,7 +18,7 @@ Use the sidebar to browse topics.
 ## What’s inside
 
 - **Website**
-  - Content to be published soon
+  - Guides for key website management activities performed by MGAIBA administrators
 - **Client Portal**
   - Member registration troubleshooting Guide
 - **Zoho Systems**
