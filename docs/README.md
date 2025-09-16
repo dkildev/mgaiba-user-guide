@@ -37,7 +37,8 @@ Use the sidebar to browse topics.
 ## Support
 
 For assistance or to request updates, contact **Techinnovate** at  
-**digital@techinnovate.com.au**.
+**digital@techinnovate.com.au** | **david.k@techinnovate.com.au**
+or call **(03) 9092 9496**.
 
 ---
 
